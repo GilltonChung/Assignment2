@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'gilltonassignment2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2D6CC25C5314F54A60C4191E62E281C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E24D91BE5BC647E0B4013B8677F4CC77 }}
           package: .
